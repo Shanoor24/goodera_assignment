@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+#search_main {
+    position: absolute;
+width: 1154px;
+height: 100px;
+left: 170px;
+top: 314px;
+
+background: #FFFFFF;
+box-shadow: 2px 12px 8px 2px rgba(0, 0, 0, 0.05);
+border-radius: 24px;
+/* background-color: red; */
+}
+
+#search_main > input:nth-child(1) {
+    position: absolute;
+width: 156px;
+height: 24px;
+left: 75px;
+top: 38px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+border: none;
+outline: none;
+/* identical to box height */
+
+
+color: #7B7B7B;
+}
+
+.select {
+    position: absolute;
+width: 333px;
+height: 36px;
+/* left: 608px; */
+top: 346px;
+position: absolute;
+/* width: 118px; */
+height: 24px;
+left: 400px;
+top: 38px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+border: none;
+outline: none;
+/* identical to box height */
+
+
+color: #7B7B7B;
+}
+
+#search_main > div:nth-child(3) {
+    position: absolute;
+width: 280px;
+height: 60px;
+left: 850px;
+top: 20px;
+
+background: #F07987;
+border-radius: 8px;
+}
+
+#search_main > div:nth-child(3) > div{
+    position: absolute;
+width: 86px;
+height: 36px;
+left: 100px;
+top: 12.5px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}

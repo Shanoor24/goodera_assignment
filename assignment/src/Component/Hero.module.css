@@ -1,0 +1,44 @@
+#main_cont {
+    /* background-color: #5DA6DF; */
+    width: 1440px;
+    height: 364px;
+    left: 0px;
+    top: 0px;   
+    background: linear-gradient(274.83deg, #5DB0DF 0.58%, #5D7ADF 74.3%);
+}
+
+.heading {
+    position: absolute;
+width: 511px;
+height: 72px;
+left: 170px;
+top: 142px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.sub_heading {
+    position: absolute;
+width: 654px;
+height: 30px;
+left: 170px;
+top: 207px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
